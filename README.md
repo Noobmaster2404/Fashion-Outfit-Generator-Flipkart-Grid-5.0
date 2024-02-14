@@ -1,4 +1,3 @@
-<---------------------------READ_ME.txt----------------------------->
 		Team 686157-U4DY86T5 (Killer Queen)
 The problem we chose to work on is Outfit Generator using GenAI.
 This is just a Proof-Of-Concept.
